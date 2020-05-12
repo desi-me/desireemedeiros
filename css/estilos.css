@@ -1,0 +1,38 @@
+body {
+    background-image: 
+    URL("https://static.vecteezy.com/system/resources/previews/000/677/971/non_2x/seamless-background-with-lights-and-halos.jpg");
+    background-size: auto 100vh;
+    height: 100vh;
+    font-family: Verdana;
+     }
+    
+    .menu {
+      background-color: white;
+  }
+  
+  a {
+    text-decoration: none;
+    color: teal;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style:none;
+  }
+  .site-title{
+    text-align: center;
+    color: teal; 
+  }
+  
+  .site-subtitle {
+    text-align: center;
+    color: teal;
+    font-style: italic;
+  
+  }
